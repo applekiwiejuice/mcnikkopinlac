@@ -1,0 +1,224 @@
+{
+  "main": {
+    "name": "Mcnikko Pinlac",
+    "description": "All-rounder: Full Stack Web Developer, Creative Digital Marketer, and Technopreneur",
+    "image": "profilepic.jpg",
+    "bio": "Good Day Client! I'm an Experienced All-rounder, flexible to almost any kind of digital tasks. I'm a Full Stack Web Developer (MERN Stack: MongoDB, Express, Reactjs, Nodejs), Creative Digital Marketer, and Entrepreneur. STEVE JOBS, ELON MUSK & JACK MA are my Influences. Business and Technology is my passion.",
+    "contactmessage": "Get In Touch! I am eager to help with freelance work. I will find the best-suited SOLUTIONS at 100%!",
+    "email": "mcnikkopinlac@gmail.com",
+    "phone": "+639055000737",
+    "github": "https://github.com/applekiwiejuice",
+    "project": "https://www.upwork.com/freelancers/~018ac9459436adeffd?viewMode=1",
+    "address": {
+      "street": "Quezon City",
+      "city": "Metro Manila,",
+      "state": "Philippines",
+      "zip": "1113"
+    },
+    "website": "",
+    "resumedownload": "./mcnikkopinlacresume.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/mcndevofficial",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/McnikkoP",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mcnikkopinlac/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/applekiwiejuice",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Full Stack Web Development (HTML, CSS, JS, MongoDB, Expressjs, Reactjs, Nodejs), Wordpress.com Web Designing and Management, Search Engine Optimization (Google Webmaster Tools), Online research and business development, Graphic Design and Photo/Video Editing (Canva and Adobe Creative Suite), Social Media Marketing (Facebook Ads and Google Ads), Online Marketing (Ad listings Locanto and Craigslist), E-commerce (Shopify Setup), Content Writing and Blogging, Computer Systems and Network Setup, Computer Troubleshooting, Microsoft Productivity Softwares (Word, Excel, etc), Google G Suite",
+    "education": [
+      {
+        "school": "Systems Technology Institute STI College",
+        "degree": "Diploma in Information Technology",
+        "graduated": "2010",
+        "description": "Develop computer programming solutions for various businesses. Build and manage databases. Design, create, and publish dynamic web pages. Communicate effectively with clients and fellow workers. Assess and troubleshoot software and computer hardware problems"
+      },
+      {
+        "school": "Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL) by: Andrei Neagoie and Yihua Zhang (Udemy Online Course)",
+        "degree": "React Developer Udemy Certificate",
+        "graduated": "2020",
+        "description": "Build enterprise level React applications and deploy to production"
+      },
+      {
+        "school": "The Complete 2020 Web Development Bootcamp By Dr. Angela Yu (Udemy Online Course)",
+        "degree": "Web Development Bootcamp Udemy Certificate",
+        "graduated": "2020",
+        "description": "Professional developer best practices. Build fully-fledged websites and web apps for startups or businesses with latest technologies and frameworks"
+      },
+      {
+        "school": "Business Coach, Inc.",
+        "degree": "Internet Marketing Certificate",
+        "graduated": "2013",
+        "description": "The Internet and Marketing Concepts. Advantages of Internet Marketing"
+      }
+    ],
+    "work": [
+      {
+        "company": "Self-employed",
+        "title": "Freelancing",
+        "years": "January 2018 - Present",
+        "description": "Entrepreneur, Full Stack Web Developer, Online Business Owner and Online Marketer"
+      },
+      {
+        "company": "Teleperformance",
+        "title": "Customer Service Representative",
+        "years": "2017",
+        "description": "Financial technology account. Processing personal loans applications, Working on inbound/outbound client calls and Emails"
+      }
+    ],
+    "techicons": [
+      {
+        "image": "html5.png"
+      },
+      {
+        "image": "css3.png"
+      },
+      {
+        "image": "MongoDb.png"
+      },
+      {
+        "image": "Expressjs.png"
+      },
+      {
+        "image": "react.png"
+      },
+      {
+        "image": "nodejs.png"
+      },
+      {
+        "image": "wordpress.png"
+      },
+      {
+        "image": "shopify.png"
+      },
+      {
+        "image": "canva.png"
+      },
+      {
+        "image": "adobecreativesuite.png"
+      },
+      {
+        "image": "office365.png"
+      },
+      {
+        "image": "gsuite.png"
+      },
+      {
+        "image": "googleads.png"
+      },
+      {
+        "image": "googleanalytics.png"
+      },
+      {
+        "image": "googlesearchconsole.png"
+      },
+      {
+        "image": "facebookads.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "60%"
+      },
+      {
+        "name": "VueJs",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "PHP",
+        "level": "80%"
+      },
+      {
+        "name": "Swift",
+        "level": "50%"
+      },
+      {
+        "name": "JAVA",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Gerlita",
+        "category": "Gerlita landing page - created with bootstrap + mailchimp api",
+        "image": "gerlita.png",
+        "url": "https://ancient-mountain-98729.herokuapp.com/"
+      },
+      {
+        "title": "Goals App",
+        "category": "Goals sharing app - created with nodejs + ejs",
+        "image": "goals.png",
+        "url": "https://blooming-crag-42743.herokuapp.com/"
+      },
+      {
+        "title": "Keeper App",
+        "category": "Keeper App Clone - created with reactjs",
+        "image": "keeperapp.png",
+        "url": "https://d1pt0.csb.app/"
+      },
+      {
+        "title": "Monsters Rolodex",
+        "category": "Fetch API Demonstration - created with reactjs",
+        "image": "monstersrolodex.png",
+        "url": "https://applekiwiejuice.github.io/monsters-rolodex/"
+      },
+      {
+        "title": "Newsletter Sign-up",
+        "category": "Mailchimp API Demonstration - created with bootstrap + mailhimp api",
+        "image": "newslettersignup.png",
+        "url": "https://tranquil-sea-50942.herokuapp.com/"
+      },
+      {
+        "title": "Secrets App",
+        "category": "Security Demonstration - created with passportjs + express + mongoose + mongodb + more",
+        "image": "secrets.png",
+        "url": "https://glacial-springs-95519.herokuapp.com/"
+      },
+      {
+        "title": "Todolist App",
+        "category": "Database Demonstration - created with mongodb + mongoose",
+        "image": "todolist.png",
+        "url": "https://pacific-atoll-67724.herokuapp.com/"
+      },
+      {
+        "title": "WebRaccoon Codetember 1",
+        "category": "Local Coding Challenge Part 1 - created with reactjs",
+        "image": "wrcodetember1.png",
+        "url": "https://dfxb5.csb.app/"
+      },
+      {
+        "title": "WebRaccoon Codetember 2",
+        "category": "Local Coding Challenge Part 2 - created with reactjs",
+        "image": "wrcodetember2.png",
+        "url": "https://30m4g.csb.app/"
+      }
+    ]
+  }
+}
