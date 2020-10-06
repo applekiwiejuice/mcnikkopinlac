@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mcnikkopinlac/static/css/main.5facb584.chunk.css",
+    "main.js": "/mcnikkopinlac/static/js/main.2894f56a.chunk.js",
+    "main.js.map": "/mcnikkopinlac/static/js/main.2894f56a.chunk.js.map",
+    "runtime-main.js": "/mcnikkopinlac/static/js/runtime-main.4f09fdc6.js",
+    "runtime-main.js.map": "/mcnikkopinlac/static/js/runtime-main.4f09fdc6.js.map",
+    "static/js/2.0bfcb59e.chunk.js": "/mcnikkopinlac/static/js/2.0bfcb59e.chunk.js",
+    "static/js/2.0bfcb59e.chunk.js.map": "/mcnikkopinlac/static/js/2.0bfcb59e.chunk.js.map",
+    "index.html": "/mcnikkopinlac/index.html",
+    "precache-manifest.805f76af48f6304148c9394afbaee00b.js": "/mcnikkopinlac/precache-manifest.805f76af48f6304148c9394afbaee00b.js",
+    "service-worker.js": "/mcnikkopinlac/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/mcnikkopinlac/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.0bfcb59e.chunk.js.LICENSE.txt": "/mcnikkopinlac/static/js/2.0bfcb59e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f09fdc6.js",
+    "static/js/2.0bfcb59e.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.2894f56a.chunk.js"
+  ]
+}
