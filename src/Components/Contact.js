@@ -41,7 +41,17 @@ class Contact extends Component {
 
         <div className="row">
           <div className="eight columns">
-            <form action="" method="post" id="contactForm" name="contactForm">
+            <iframe
+              src="https://docs.google.com/forms/d/e/1FAIpQLScTkjkSdQWw4XQrA_zZNnimAIyZyS1uJftTAfkpxrHpKOp-xg/viewform?embedded=true"
+              width="400"
+              height="900"
+              frameborder="0"
+              marginheight="0"
+              marginwidth="0"
+            >
+              Loading…
+            </iframe>
+            {/* <form action="" method="post" id="contactForm" name="contactForm">
               <fieldset>
                 <div>
                   <label htmlFor="contactName">
@@ -102,13 +112,13 @@ class Contact extends Component {
                   </span>
                 </div>
               </fieldset>
-            </form>
+            </form> */}
 
-            <div id="message-warning"> Error boy</div>
+            {/* <div id="message-warning"> Error boy</div>
             <div id="message-success">
               <i className="fa fa-check"></i>Your message was sent, thank you!
               <br />
-            </div>
+            </div> */}
           </div>
 
           <aside className="four columns footer-widgets">
