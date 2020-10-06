@@ -6,7 +6,7 @@ class Footer extends Component {
       var networks = this.props.data.social.map(function (network) {
         return (
           <li key={network.name}>
-            <a href={network.url}>
+            <a href={network.url} target="_blank" rel="noopener noreferrer">
               <i className={network.className}></i>
             </a>
           </li>
@@ -23,7 +23,12 @@ class Footer extends Component {
             <ul className="copyright">
               <li>&copy; Copyright 2020 Mcnikko Pinlac</li>
               <li>
-                <a title="Styleshout" href="http://www.styleshout.com/">
+                <a
+                  title="Styleshout"
+                  href="http://www.styleshout.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   Styleshout
                 </a>
               </li>
@@ -33,11 +38,18 @@ class Footer extends Component {
               <a
                 href="https://www.flaticon.com/authors/freepik"
                 title="Freepik"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 Freepik
               </a>{" "}
               from{" "}
-              <a href="https://www.flaticon.com/" title="Flaticon">
+              <a
+                href="https://www.flaticon.com/"
+                title="Flaticon"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 www.flaticon.com
               </a>
             </div>

@@ -112,10 +112,20 @@ class Header extends Component {
             <h3>{description}.</h3>
             <hr />
             <ul className="social">
-              <a href={project} className="button btn project-btn">
+              <a
+                href={project}
+                className="button btn project-btn"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <i className="fa fa-briefcase"></i>Upwork
               </a>
-              <a href={github} className="button btn github-btn">
+              <a
+                href={github}
+                className="button btn github-btn"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <i className="fa fa-github"></i>Github
               </a>
             </ul>
