@@ -1,64 +1,81 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <meta name="theme-color" content="#000000" />
+    <meta property="og:title" content="Mcnikko Pinlac Portfolio" />
+    <meta
+      content="Good Day Client! I'm an All-rounder, flexible to any kind of digital tasks. I am a Full Stack Web Developer MERN Stack (MongoDB, Express, Reactjs, Nodejs), Digital Marketer, and Entrepreneur. STEVE JOBS, ELON MUSK & JACK MA are my Influencers. Business and Technology is my passion."
+    />
+    <meta
+      property="og:image"
+      content="https://scontent.fmnl5-1.fna.fbcdn.net/v/t1.0-9/118912612_107018507807080_8288136593784197316_n.png?_nc_cat=106&_nc_sid=09cbfe&_nc_eui2=AeHggaOdLUt1JFYLlWIwJHMiLQiwgM5Sad4tCLCAzlJp3sqKxrCqLU6gF0skvm6hmQu2bTKVTyX-Q5B7lPPgCxO1&_nc_ohc=zfQf1HOGPkkAX8WaSR6&_nc_ht=scontent.fmnl5-1.fna&oh=932649e970187c92294865f9a5481a80&oe=5FA2B8ED"
+    />
+    <meta
+      property="og:url"
+      content="https://applekiwiejuice.github.io/mcnikkopinlac/"
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico" />
+    <link rel="stylesheet" href="%PUBLIC_URL%/css/default.css" />
+    <link rel="stylesheet" href="%PUBLIC_URL%/css/layout.css" />
+    <link rel="stylesheet" href="%PUBLIC_URL%/css/media-queries.css" />
+    <link rel="stylesheet" href="%PUBLIC_URL%/css/magnific-popup.css" />
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="theme-color" content="#000000">
-  <link rel="manifest" href="%PUBLIC_URL%/manifest.json">
-  <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico">
-  <link rel="stylesheet" href="%PUBLIC_URL%/css/default.css">
-  <link rel="stylesheet" href="%PUBLIC_URL%/css/layout.css">
-  <link rel="stylesheet" href="%PUBLIC_URL%/css/media-queries.css">
-  <link rel="stylesheet" href="%PUBLIC_URL%/css/magnific-popup.css">
+    <title>Mcnikko Pinlac</title>
+  </head>
 
+  <body>
+    <noscript> You need to enable JavaScript to run this app. </noscript>
+    <div id="root"></div>
 
-  <title>Mcnikko Pinlac</title>
-</head>
+    <!-- Load Facebook SDK for JavaScript -->
+    <div id="fb-root"></div>
+    <script>
+      window.fbAsyncInit = function () {
+        FB.init({
+          xfbml: true,
+          version: "v8.0",
+        });
+      };
 
-<body>
-  <noscript>
-    You need to enable JavaScript to run this app.
-  </noscript>
-  <div id="root"></div>
+      (function (d, s, id) {
+        var js,
+          fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js";
+        fjs.parentNode.insertBefore(js, fjs);
+      })(document, "script", "facebook-jssdk");
+    </script>
 
+    <!-- Your Chat Plugin code -->
+    <div
+      class="fb-customerchat"
+      attribution="setup_tool"
+      page_id="107016424473955"
+    ></div>
 
-  <!-- Load Facebook SDK for JavaScript -->
-  <div id="fb-root"></div>
-  <script>
-    window.fbAsyncInit = function () {
-      FB.init({
-        xfbml: true,
-        version: 'v8.0'
-      });
-    };
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script>
+      window.jQuery ||
+        document.write('<script src="js/jquery-1.10.2.min.js"><\/script>');
+    </script>
+    <script
+      type="text/javascript"
+      src="js/jquery-migrate-1.2.1.min.js"
+    ></script>
 
-    (function (d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return;
-      js = d.createElement(s);
-      js.id = id;
-      js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
-      fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));
-  </script>
-
-  <!-- Your Chat Plugin code -->
-  <div class="fb-customerchat" attribution=setup_tool page_id="107016424473955">
-  </div>
-
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-  <script>
-    window.jQuery || document.write('<script src="js/jquery-1.10.2.min.js"><\/script>')
-  </script>
-  <script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
-
-  <script src="js/jquery.flexslider.js"></script>
-  <script src="js/waypoints.js"></script>
-  <script src="js/jquery.fittext.js"></script>
-  <script src="js/magnific-popup.js"></script>
-  <script src="js/init.js"></script>
-
-</body>
-
+    <script src="js/jquery.flexslider.js"></script>
+    <script src="js/waypoints.js"></script>
+    <script src="js/jquery.fittext.js"></script>
+    <script src="js/magnific-popup.js"></script>
+    <script src="js/init.js"></script>
+  </body>
 </html>
