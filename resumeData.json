@@ -16,7 +16,7 @@
       "zip": "1113"
     },
     "website": "",
-    "resumedownload": "./mcnikkopinlacresume.pdf",
+    "resumedownload": "./mcnikkopinlacresumenov2020.pdf",
     "social": [
       {
         "name": "facebook",
@@ -34,6 +34,11 @@
         "className": "fa fa-linkedin"
       },
       {
+        "name": "behance",
+        "url": "https://www.behance.net/mcnikkopinlac",
+        "className": "fa fa-behance"
+      },
+      {
         "name": "github",
         "url": "https://github.com/applekiwiejuice",
         "className": "fa fa-github"
@@ -48,6 +53,12 @@
         "degree": "Diploma in Information Technology",
         "graduated": "2010",
         "description": "Develop computer programming solutions for various businesses. Build and manage databases. Design, create, and publish dynamic web pages. Communicate effectively with clients and fellow workers. Assess and troubleshoot software and computer hardware problems"
+      },
+      {
+        "school": "Mindtech Training and Development Institute Inc.",
+        "degree": "Creative Web Design",
+        "graduated": "2020",
+        "description": "Develop stunning Web Design Ideas including the different creative process that achieves designing objectives"
       },
       {
         "school": "Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL) by: Andrei Neagoie and Yihua Zhang (Udemy Online Course)",
