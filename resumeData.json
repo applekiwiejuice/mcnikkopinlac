@@ -1,14 +1,14 @@
 {
   "main": {
     "name": "Mcnikko Pinlac",
-    "description": "All-rounder: Full Stack Web Developer, Creative Digital Marketer, and Technopreneur",
+    "description": "Generalist: Full Stack Web Developer, Creative Digital Marketer, and Technopreneur",
     "image": "profilepic.jpg",
-    "bio": "Good Day Client! I'm an Experienced All-rounder, flexible to almost any kind of digital tasks. I'm a Full Stack Web Developer (MERN Stack: MongoDB, Express, Reactjs, Nodejs), Creative Digital Marketer, and Entrepreneur. Steve Jobs, Jack Ma and Elon Musk are my influencers. Business and Technology is my passion.",
+    "bio": "Good Day Client! I'm an Experienced All-rounder, flexible to almost any kind of digital tasks. I'm a Full Stack Web Developer (MERN Stack: MongoDB, Express, Reactjs, Nodejs), Ruby on Rails, Creative Digital Marketer, and Entrepreneur. Steve Jobs, Jack Ma and Elon Musk are my influencers. Business and Technology is my passion.",
     "contactmessage": "Get In Touch! I am eager to help with freelance work. I will find the best-suited SOLUTIONS at 100%!",
     "email": "mcnikkopinlac@gmail.com",
     "phone": "+639055000737",
     "github": "https://github.com/applekiwiejuice",
-    "project": "https://www.upwork.com/freelancers/~018ac9459436adeffd?viewMode=1",
+    "linkedin": "https://www.linkedin.com/in/mcnikkopinlac",
     "address": {
       "street": "Quezon City",
       "city": "Metro Manila,",
@@ -16,9 +16,8 @@
       "zip": "1113"
     },
     "website": "",
-    "resumedownload": "./mcnikkopinlacresumenov2020.pdf",
-    "social": [
-      {
+    "resumedownload": "./mcnikkopinlacresumemay2021.pdf",
+    "social": [{
         "name": "facebook",
         "url": "https://www.facebook.com/mcndevofficial",
         "className": "fa fa-facebook"
@@ -46,13 +45,12 @@
     ]
   },
   "resume": {
-    "skillmessage": "Full Stack Web Development (HTML, CSS, JS, MongoDB, Expressjs, Reactjs, Nodejs), Wordpress.com Web Designing and Management, Search Engine Optimization (Google Webmaster Tools), Online research and business development, Graphic Design and Photo/Video Editing (Canva and Adobe Creative Suite), Social Media Marketing (Facebook Ads and Google Ads), Online Marketing (Ad listings Locanto and Craigslist), E-commerce (Shopify Setup), Content Writing and Blogging, Computer Systems and Network Setup, Computer Troubleshooting, Microsoft Productivity Softwares (Word, Excel, etc), Google G Suite",
-    "education": [
-      {
-        "school": "Systems Technology Institute STI College",
-        "degree": "Diploma in Information Technology",
-        "graduated": "2010",
-        "description": "Develop computer programming solutions for various businesses. Build and manage databases. Design, create, and publish dynamic web pages. Communicate effectively with clients and fellow workers. Assess and troubleshoot software and computer hardware problems"
+    "skillmessage": "Full Stack Web Development (HTML, CSS, JS, MongoDB, Expressjs, Reactjs, Nodejs), Ruby on Rails, Wordpress.com Web Designing and Management, Search Engine Optimization (Google Webmaster Tools), Online research and business development, Graphic Design and Photo/Video Editing (Canva and Adobe Creative Suite), Social Media Marketing (Facebook Ads and Google Ads), Online Marketing (Ad listings Locanto and Craigslist), E-commerce (Shopify Setup), Content Writing and Blogging, Computer Systems and Network Setup, Computer Troubleshooting, Microsoft Productivity Softwares (Word, Excel, etc), Google G Suite",
+    "education": [{
+        "school": "Avion School",
+        "degree": "Software Engineering School",
+        "graduated": "2021",
+        "description": "In-depth projects and lessons from a Senior Software Engineer, subjects includes Web development fundamentals, Frontend development with Javascript, Backend development with Ruby on Rails, Best practices and Test driven development process."
       },
       {
         "school": "Mindtech Training and Development Institute Inc.",
@@ -77,10 +75,15 @@
         "degree": "Internet Marketing Certificate",
         "graduated": "2013",
         "description": "The Internet and Marketing Concepts. Advantages of Internet Marketing"
+      },
+      {
+        "school": "Systems Technology Institute STI College",
+        "degree": "Diploma in Information Technology",
+        "graduated": "2010",
+        "description": "Develop computer programming solutions for various businesses. Build and manage databases. Design, create, and publish dynamic web pages. Communicate effectively with clients and fellow workers. Assess and troubleshoot software and computer hardware problems"
       }
     ],
-    "work": [
-      {
+    "work": [{
         "company": "Self-employed",
         "title": "Freelancing",
         "years": "January 2018 - Present",
@@ -93,7 +96,9 @@
         "description": "Financial technology account. Processing personal loans applications, Working on inbound/outbound client calls and Emails"
       }
     ],
-    "techicons": [
+    "techicons": [{
+        "image": "ruby.png"
+      },
       {
         "image": "html5.png"
       },
@@ -143,8 +148,7 @@
         "image": "facebookads.png"
       }
     ],
-    "skills": [
-      {
+    "skills": [{
         "name": "Python",
         "level": "60%"
       },
@@ -175,8 +179,7 @@
     ]
   },
   "portfolio": {
-    "projects": [
-      {
+    "projects": [{
         "title": "Gerlita",
         "category": "Gerlita landing page - created with bootstrap + mailchimp api",
         "image": "gerlita.png",
