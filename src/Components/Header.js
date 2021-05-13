@@ -6,7 +6,7 @@ import ParticlesBg from "particles-bg";
 class Header extends Component {
   render() {
     if (this.props.data) {
-      var project = this.props.data.project;
+      var linkedin = this.props.data.linkedin;
       var github = this.props.data.github;
       var name = this.props.data.name;
       var description = this.props.data.description;
@@ -113,12 +113,12 @@ class Header extends Component {
             <hr />
             <ul className="social">
               <a
-                href={project}
-                className="button btn project-btn"
+                href={linkedin}
+                className="button btn linkedin-btn"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <i className="fa fa-briefcase"></i>Upwork
+                <i className="fa fa-linkedin"></i>LinkedIn
               </a>
               <a
                 href={github}
