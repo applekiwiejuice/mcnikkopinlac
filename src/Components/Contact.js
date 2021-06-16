@@ -43,7 +43,7 @@ class Contact extends Component {
           <div className="eight columns">
             <iframe
               src="https://docs.google.com/forms/d/e/1FAIpQLScTkjkSdQWw4XQrA_zZNnimAIyZyS1uJftTAfkpxrHpKOp-xg/viewform?embedded=true"
-              width="400"
+              width="380"
               height="900"
               frameborder="0"
               marginheight="0"

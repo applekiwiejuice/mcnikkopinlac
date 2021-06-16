@@ -180,6 +180,66 @@
   },
   "portfolio": {
     "projects": [{
+        "title": "MediQuik",
+        "category": "Ruby on Rails App + Google Maps API",
+        "image": "mediquik_major_app.png",
+        "url": "https://www.mediquik.app"
+      },
+      {
+        "title": "Stock App",
+        "category": "Ruby on Rails App",
+        "image": "stock_app_major_app.png",
+        "url": "http://stockapp-avion.herokuapp.com/"
+      },
+      {
+        "title": "MO - My Organizer",
+        "category": "Ruby on Rails App",
+        "image": "mo_major_app.png",
+        "url": "https://mo-myorganizer.herokuapp.com/"
+      },
+      {
+        "title": "Ghail Sports Betting",
+        "category": "Node.js App",
+        "image": "ghail_sports_betting.png",
+        "url": "https://ghailsportsbetting.herokuapp.com/"
+      },
+      {
+        "title": "MM Bank",
+        "category": "Node.js App",
+        "image": "mm_bank.png",
+        "url": "https://mm-bank-app.herokuapp.com/"
+      },
+      {
+        "title": "Best Practices - Layout Demo",
+        "category": "HTML + CSS Layout Demo",
+        "image": "bestpractices.png",
+        "url": "https://applekiwiejuice.github.io/bestpractices/"
+      },
+      {
+        "title": "Basic Rails Blogging App",
+        "category": "Basic Rails Blogging App",
+        "image": "blog_activity.png",
+        "url": "https://github.com/applekiwiejuice/rails_blog"
+      },
+      {
+        "title": "Responsive Chess Board Demo",
+        "category": "Vanilla HTML + CSS + JS",
+        "image": "chess_flex_screenshot.png",
+        "url": "https://applekiwiejuice.github.io/chess_demo_batch4/"
+      },
+      {
+        "title": "Responsive Landing Page Demo",
+        "category": "Vanilla HTML + CSS",
+        "image": "responsive_landing_page.png",
+        "url": "https://applekiwiejuice.github.io/responsive-landing-page-demo-batch-4/"
+      },
+      {
+        "title": "Tic Tac Toe",
+        "category": "Vanilla HTML + CSS + JS",
+        "image": "tic_tac_toe.png",
+        "url": "https://applekiwiejuice.github.io/tictactoejs/"
+      },
+      {
         "title": "Gerlita",
         "category": "Gerlita landing page - created with bootstrap + mailchimp api",
         "image": "gerlita.png",
@@ -232,6 +292,12 @@
         "category": "Local Coding Challenge Part 2 - created with reactjs",
         "image": "wrcodetember2.png",
         "url": "https://30m4g.csb.app/"
+      },
+      {
+        "title": "Personal Portfolio Plain Version",
+        "category": "HTML + CSS + JS",
+        "image": "personal_portfolio_bootstrap.png",
+        "url": "https://applekiwiejuice.github.io/Activity-8-Personal-Portfolio/"
       }
     ]
   }
