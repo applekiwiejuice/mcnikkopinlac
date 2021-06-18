@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1bcfa40af78a393533226dc30aae8a09",
+    "revision": "c72aabf2d9ff75c8b18a93656b35e207",
     "url": "/mcnikkopinlac/index.html"
   },
   {
-    "revision": "e703f028ef404dc4ab93",
+    "revision": "4e40c59b018e86bf0250",
     "url": "/mcnikkopinlac/static/css/main.5facb584.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mcnikkopinlac/static/js/2.0bfcb59e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e703f028ef404dc4ab93",
-    "url": "/mcnikkopinlac/static/js/main.6195b3e7.chunk.js"
+    "revision": "4e40c59b018e86bf0250",
+    "url": "/mcnikkopinlac/static/js/main.8f207eb0.chunk.js"
   },
   {
     "revision": "0397e0bec10a7ae7df87",
