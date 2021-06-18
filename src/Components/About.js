@@ -12,7 +12,7 @@ class About extends Component {
       var zip = this.props.data.address.zip;
       var phone = this.props.data.phone;
       var email = this.props.data.email;
-      var resume = this.props.data.resume;
+      // var resume = this.props.data.resume;
     }
 
     return (
@@ -51,7 +51,7 @@ class About extends Component {
               <div className="columns download">
                 <p>
                   <a
-                    href={resume}
+                    href="https://drive.google.com/file/d/11z7UaaP7WL1-IgvXWu9o0Q3fORKpUhSa/view?usp=sharing"
                     className="button"
                     target="_blank"
                     rel="noopener noreferrer"
