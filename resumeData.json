@@ -16,7 +16,7 @@
       "zip": "1113"
     },
     "website": "",
-    "resumedownload": "./mcnikkopinlacresumemay2021.pdf",
+    "resumedownload": "https://drive.google.com/file/d/11z7UaaP7WL1-IgvXWu9o0Q3fORKpUhSa/view?usp=sharing",
     "social": [{
         "name": "facebook",
         "url": "https://www.facebook.com/mcndevofficial",
@@ -208,6 +208,12 @@
         "category": "Node.js App",
         "image": "mm_bank.png",
         "url": "https://mm-bank-app.herokuapp.com/"
+      },
+      {
+        "title": "Zup Clothing",
+        "category": "Bootstrap E-commerce static website demo",
+        "image": "zup_clothing.png",
+        "url": "https://applekiwiejuice.github.io/zupclothing_final/"
       },
       {
         "title": "Best Practices - Layout Demo",
