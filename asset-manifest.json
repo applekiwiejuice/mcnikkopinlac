@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mcnikkopinlac/static/css/main.5facb584.chunk.css",
-    "main.js": "/mcnikkopinlac/static/js/main.bb6d01b8.chunk.js",
-    "main.js.map": "/mcnikkopinlac/static/js/main.bb6d01b8.chunk.js.map",
+    "main.js": "/mcnikkopinlac/static/js/main.37a66fe2.chunk.js",
+    "main.js.map": "/mcnikkopinlac/static/js/main.37a66fe2.chunk.js.map",
     "runtime-main.js": "/mcnikkopinlac/static/js/runtime-main.4f09fdc6.js",
     "runtime-main.js.map": "/mcnikkopinlac/static/js/runtime-main.4f09fdc6.js.map",
     "static/js/2.0bfcb59e.chunk.js": "/mcnikkopinlac/static/js/2.0bfcb59e.chunk.js",
     "static/js/2.0bfcb59e.chunk.js.map": "/mcnikkopinlac/static/js/2.0bfcb59e.chunk.js.map",
     "index.html": "/mcnikkopinlac/index.html",
-    "precache-manifest.47cf8330af5e5980f8d172c7510b0ed6.js": "/mcnikkopinlac/precache-manifest.47cf8330af5e5980f8d172c7510b0ed6.js",
+    "precache-manifest.95bfd3264dcd283a425b222e2b9c0960.js": "/mcnikkopinlac/precache-manifest.95bfd3264dcd283a425b222e2b9c0960.js",
     "service-worker.js": "/mcnikkopinlac/service-worker.js",
     "static/css/main.5facb584.chunk.css.map": "/mcnikkopinlac/static/css/main.5facb584.chunk.css.map",
     "static/js/2.0bfcb59e.chunk.js.LICENSE.txt": "/mcnikkopinlac/static/js/2.0bfcb59e.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4f09fdc6.js",
     "static/js/2.0bfcb59e.chunk.js",
     "static/css/main.5facb584.chunk.css",
-    "static/js/main.bb6d01b8.chunk.js"
+    "static/js/main.37a66fe2.chunk.js"
   ]
 }
